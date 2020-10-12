@@ -1,2 +1,1 @@
-# starter
 # bio_python
